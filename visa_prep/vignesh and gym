@@ -1,0 +1,7 @@
+m,k,e=map(int, input().split())
+if m+k <= e:
+    print("2")
+elif m<=e:
+    print("1")
+else:
+    print("0")
