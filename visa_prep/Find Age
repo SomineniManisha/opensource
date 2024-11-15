@@ -1,0 +1,3 @@
+g=int(input())
+vignesh_age = g-15
+print(vignesh_age)
