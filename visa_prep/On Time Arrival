@@ -1,0 +1,7 @@
+z=int(input())
+for _ in range(z):
+    m=int(input())
+    if m >= 30:
+        print("YES")
+    else:
+        print("NO")
